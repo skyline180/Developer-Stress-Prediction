@@ -31,7 +31,7 @@ def predict_stress(
         "Interruptions": interruptions,
         "Experience_Years": experience_years,
         "Code_Complexity": code_complexity,
-        "Remote_Work": remote_work
+        "Remote_Work": int(remote_work)
     }])
 
     prediction = model.predict(input_df)
