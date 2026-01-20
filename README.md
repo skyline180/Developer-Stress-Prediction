@@ -11,7 +11,7 @@ Predict **developer stress levels** using work, lifestyle, and code metrics with
 
 ## 🌐 Live Demo
 
-Try it online via Gradio: [Launch Developer Stress Predictor](https://share.gradio.app)  
+Try it online via Gradio: [Launch Developer Stress Predictor](https://msakash-developer-stress-predictor.hf.space/?__theme=system&deep_link=7qE55x-7rEw)  
 
 ---
 
